@@ -22,3 +22,5 @@ The bar chart aids in understanding individual product performance and making in
 
 Conclusion:
 This Power BI analysis offers valuable insights into sales performance, enabling stakeholders to make data-driven decisions to optimize sales strategies and maximize revenue.
+
+Note:- For quick view or reference the powerbi visual charts is exported in pdf format i.e powerbi practise.pdf
